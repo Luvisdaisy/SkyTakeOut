@@ -1,1 +1,6 @@
-产品原型/**
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
